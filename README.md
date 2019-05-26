@@ -9,7 +9,7 @@ Analytics on Path of Exile League dataset provided by Kaggle user Ggzet
 4. Average number of finished challanges for each division, show division with highest and lowest average challanges.
 5. Show dependency between level and class of died characters. Only for HC divisions.
 
-## These questions are answered in the jupyter notebook: poe-analytics.ipynb
+These questions are answered in the jupyter notebook: poe-analytics.ipynb
 
 ## Environment
 
