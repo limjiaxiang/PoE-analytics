@@ -13,7 +13,7 @@ These questions are answered in the jupyter notebook: poe-analytics.ipynb
 
 ## Environment
 
-Install required libraries to a newly created environment
+Install required libraries in a newly created environment
 ```
 pip install -r requirements.txt
 ```
