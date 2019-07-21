@@ -1,6 +1,6 @@
 # PoE-analytics
 Analytics on Path of Exile League dataset provided by Kaggle user Ggzet
-![Link to Kaggle dataset webpage](https://www.kaggle.com/gagazet/path-of-exile-league-statistic)
+[Link to Kaggle dataset webpage](https://www.kaggle.com/gagazet/path-of-exile-league-statistic)
 
 ## Questions posed by dataset uploader:
 1. A total number of players in each division, usage of each class in descending order.
