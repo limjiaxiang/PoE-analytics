@@ -1,5 +1,5 @@
 # PoE-analytics
-Analytics on Path of Exile League dataset provided by Kaggle user Ggzet
+Analytics on Path of Exile League dataset provided by Kaggle user Ggzet<br>
 [Link to Kaggle dataset webpage](https://www.kaggle.com/gagazet/path-of-exile-league-statistic)
 
 ## Questions posed by dataset uploader:
