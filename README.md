@@ -9,6 +9,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">  
+  <a href="https://github.com/limjiaxiang/PoE-analytics">
+    <img src="pathofexile.png" alt="Logo" width="500" height="295">
+  </a>
+  
   <h3 align="center">Path of Exile Data Analysis</h3>
 
   <p align="center">
